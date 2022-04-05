@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://the-internet.herokuapp.com/",
+  "video": true,
+  "screenshotOnRunFailure": true,
+  "chromeWebSecurity": false,
+  "trashAssetsBeforeRuns": false,
+  "videoUploadOnPasses": false,
+  "defaultCommandTimeout": 20000,
+  "requestTimeout": 20000,
+  "responseTimeout": 20000,
+  "pageLoadTimeout": 30000,
+  "projectId": "p6oeq7",
+  "viewportWidth": 1600,
+  "viewportHeight": 800,
+  "screenshotsFolder": "dist/screenshots",
+  "videosFolder": "dist/videos"
+}
